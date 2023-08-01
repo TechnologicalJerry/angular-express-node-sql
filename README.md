@@ -1,1 +1,1 @@
-# angular-express-node-sql
+# express-node-sql
